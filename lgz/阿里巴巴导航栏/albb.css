@@ -1,0 +1,74 @@
+.div1 {
+    height: 160px;
+}
+
+.top {
+    width: 1000px;
+    height: 115px;
+    margin: 0px auto;
+    margin-top: 5px;
+}
+
+.dhl {
+    background: url(img/02.jpg);
+    height: 38px;
+
+}
+
+.dhl1 {
+    width: 1000px;
+    margin: 0px auto;
+}
+
+
+.dhl3 .lc1 {
+    float: left;
+}
+
+
+.dhl3 .a1 {
+    line-height: 38px;
+    font-size: 18px;
+    padding: 0px 11px;
+    color: white;
+    display: block;
+    height: 38px;
+
+}
+
+.dhl3 a:hover {
+    background: white;
+    color: #FD6F01;
+}
+
+
+.dhl4 .lc2 {
+    float: right;
+
+}
+
+.dhl2 {
+    float: left;
+}
+
+.dhl5 {
+    float: right;
+}
+
+.dhl4 .a2 {
+    line-height: 38px;
+    font-size: 12px;
+    padding: 0px 11px;
+    color: white;
+    display: block;
+    height: 38px;
+}
+
+.dhl4 .a3 {
+    padding: 10px
+}
+
+.dhl4 a:hover {
+    background: white;
+    color: #FD6F01;
+}
